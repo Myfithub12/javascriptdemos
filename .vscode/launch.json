@@ -11,7 +11,11 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
+<<<<<<< HEAD
             "program": "${workspaceFolder}\\03 Demos\\index.js"
+=======
+            "program": "${file}"
+>>>>>>> 3f6e5aeafa9291d2c45166ae8d6151253414a9e1
         }
     ]
 }
